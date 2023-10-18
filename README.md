@@ -12,6 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=murtazaaali&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=murtazaaali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<!-- Wakatime Card -->
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=murtazaaali&theme=dark&layout=compact&v=2)](https://wakatime.com/@murtazaaali)
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=murtazaaali&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
