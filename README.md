@@ -24,7 +24,7 @@ ALI Murtaza | Full Stack Developer | Pakistan
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murtazaaali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Wakatime Card -->
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=murtazaaali&theme=dark&layout=compact&v=2)](https://wakatime.com/@murtazaaali)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ali_murtaza&theme=dark&layout=compact&v=2)](https://wakatime.com/@Ali_murtaza)
 
 ### 🔝 Top Contributed Repo
 ![Contributed Repo](https://github-contributor-stats.vercel.app/api?username=murtazaaali&limit=5&theme=dark&combine_all_yearly_contributions=true)
